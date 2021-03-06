@@ -18,14 +18,13 @@ Just a simple project used to click screenshots
    - And then Again run the Application.
   
 # Appearance 
- * A black screen will apaear and within a span of 2-3 sec, it will click a screenshot
+ * A black screen will apaear and within a span of 2-3 sec, it will click a screenshot and the black screen will disappear and the preview of the clicked image will get opened. 
 
-**Saving method**
-
+# Saving method
  * Now, in order to avoid a hochpoch regarding the Filename with which it will be saved, You have to mannually save the Screenshots. Just press Ctrl+S.
  * The Screenshot app can be run as many times as you want ,not simultanously, but one after one.
 
-**Final Words**
+# Final Words
  * It is my First ever project that I posted on Github, Hope you like it
 
 ### Owned by Ritankar-Ultraboy09
